@@ -1,0 +1,14 @@
+{
+  "element_locations": {},
+  "successful_actions": [],
+  "failed_actions": [
+    {
+      "action": "FAIL: Element not found",
+      "context": "sdk_gphone64_x86_64; Documents; Files in Documents; Documents; No items; USE THIS FOLDER",
+      "reason": "FAIL: Element not found",
+      "time": "2025-12-14 02:14:53"
+    }
+  ],
+  "app_knowledge": {},
+  "session_context": {}
+}
